@@ -1,1 +1,1 @@
-<img src="web projesi/syrian/1.png" />
+<img src="web projesi/web projesi/web projesi/syrian/1.png" />
